@@ -8,7 +8,6 @@ I explored:
 • Scroll-based transitions using Smart Animate
 • Brand-specific visual identities (colors, lighting, shapes)
 • Motion-driven storytelling instead of static layouts
-🎥 I’ve attached a prototype video to showcase the animations.
 From ideation to final design execution, this project was independently built, with some external inputs and references to refine the approach.
 This is still a work in progress, and I’m planning to take it further by:
 • Adding 3D interactions (including possible 360° car views)
